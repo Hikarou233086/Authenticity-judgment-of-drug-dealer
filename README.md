@@ -1,5 +1,8 @@
-这是第一版，后期会根据实际情况逐步优化
+# 查验糖商真实性评分指南
 
+==这是第一版，后期会根据实际情况逐步优化==
+
+__docx:__
 [查验糖商真实性_简洁版.docx](https://github.com/user-attachments/files/28709412/_.docx)
 <img width="1588" height="2055" alt="fir" src="https://github.com/user-attachments/assets/552d1af8-5335-423e-a9f5-3ce7231012bf" />
 <img width="1588" height="2055" alt="sec" src="https://github.com/user-attachments/assets/65790d82-3ef0-4b38-91cb-3e197cfd70f5" />
